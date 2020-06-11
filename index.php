@@ -4,6 +4,9 @@
     <title> Welcome to LOLGGS </title>
   </head>
   <body>
-    <p> Initial Setup </p>
+    <form>
+      <label for="champion" class="champion">Find Chamption</label><br>
+      <input type="text" id="championselect" name="championselect" class="champbox"></input>
+    </form>
   </body>
 </html>
