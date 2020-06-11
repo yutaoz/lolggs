@@ -4,6 +4,8 @@
 }
 
 .header {
+  position: absolute;
+  left: 50%;
   height: 20%;
   background: #dd8cff;
   text-align: center;
