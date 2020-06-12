@@ -4,7 +4,7 @@
     <title> Welcome to LOLGGS </title>
     <link href="home.css" rel="stylesheet" type="text/css">
   </head>
-  <body>
+  <body style="background-color: #0c1e45">
     <div class="parent">
       <div class="header">
         <h1>lol, ggs!</h1>
