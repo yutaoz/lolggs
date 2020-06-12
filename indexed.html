@@ -10,11 +10,12 @@
         <h1>lol, ggs!</h1>
       </div>
 
-
+      <div class="champsearch">
       <form>
-        <label for="champion" class="champion">Find Chamption</label><br>
+        <label for="champion" class="champion">Find Chamption</label><br><br>
         <input type="text" id="championselect" name="championselect" class="champbox"></input>
       </form>
+      </div>
     </div>
   </body>
 </html>
