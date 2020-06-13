@@ -44,4 +44,12 @@
   position: absolute;
   width: 90%;
   left: 5%;
+  padding: 12px 20px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  height: 10%;
+  font-size: 20px;
+  font-family: "Lucida Console";
+  font-weight: bold;
+  color: #dd8cff;
 }
