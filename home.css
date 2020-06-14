@@ -57,6 +57,25 @@
 .compare {
   position: absolute;
   left: 50%;
-  margin-left: -14%;
+  margin-left: -15%;
   top: 300%;
+  color: white;
+}
+
+.summbox {
+  position: absolute;
+  border-radius: 4px;
+  width: 300%;
+  height: 50%;
+  font-family: "Lucida Console";
+  font-weight: bold;
+  color: #dd8cff;
+}
+
+.summonername {
+  position: relative;
+  font-size: 150%;
+  top: 12px;
+  right: 10px;
+  font-family: "Lucida Console";
 }
