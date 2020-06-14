@@ -53,3 +53,10 @@
   font-weight: bold;
   color: #dd8cff;
 }
+
+.compare {
+  position: absolute;
+  left: 50%;
+  margin-left: -15%;
+  top: 300%;
+}
