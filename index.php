@@ -19,9 +19,9 @@
 
       <div class="compare">
         <form>
-          <label for="summoner1" class="summonername">Summoner 1  </label>
+          <label for="summoner1" class="summonername">Summoner 1</label>
           <input type="text" id="summ1box" name="summ1box" class="summbox"></input><br><br><br>
-          <label for="summoner2" class="summonername">Summoner 2  </label>
+          <label for="summoner2" class="summonername">Summoner 2</label>
           <input type="text" id="summ2box" name="summ2box" class="summbox"></input>
 
         </form>
